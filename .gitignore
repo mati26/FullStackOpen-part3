@@ -10,7 +10,7 @@
 /coverage
 
 # production
-/build
+#/build we need to push build with react app to heroku
 
 # misc
 .DS_Store
